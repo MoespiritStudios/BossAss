@@ -47,7 +47,7 @@
 ----------
 ## 想知道更多？
 
-我们的 Steam 和 GitHub 上包含很多其他信息，这些信息将告诉您有关 BoaaAss 的一切。
+我们的 Steam 和 GitHub 上包含很多[其他信息](https://github.com/MoespiritStudios/BossAss/wiki)，这些信息将告诉您有关 BoaaAss 的一切。
 
 如果你有空余时间，并想对 BoaaAss 提出宝贵的意见或者建议，我们非常鼓励您加入我们的玩家交流群！或许您的想法就能在下一次更新中应用。
 
